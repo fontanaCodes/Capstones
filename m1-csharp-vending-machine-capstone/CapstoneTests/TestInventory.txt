@@ -1,0 +1,3 @@
+﻿A1|Potato Crisps|3.25
+A2|Stackers|1.75
+A3|Grain Waves|2.75
